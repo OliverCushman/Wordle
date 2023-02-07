@@ -4,7 +4,7 @@ import java.io.File;
 public class Wordle {
     
     private File wordList = new File("WordList.txt");
-    private int fileLength = 1005;
+    private int fileLength = 1000;
     private int LAST_GUESS = 6;
     private int GUESS_LENGTH = 5;
     private String[] guesses = {"     ", "     ", "     ", "     ", "     ", "     "};
