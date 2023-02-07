@@ -481,6 +481,7 @@ lodge
 logic
 loose
 lotus
+louie
 lover
 lower
 loyal
@@ -518,7 +519,6 @@ midst
 might
 minor
 minus
-Mitch
 mixed
 model
 modem
@@ -752,7 +752,6 @@ skill
 skirt
 skull
 slate
-slave
 sleek
 sleep
 slept
